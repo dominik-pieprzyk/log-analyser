@@ -1,0 +1,14 @@
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/bin/Debug/net10.0/LogAnalyzer
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/bin/Debug/net10.0/LogAnalyzer.deps.json
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/bin/Debug/net10.0/LogAnalyzer.runtimeconfig.json
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/bin/Debug/net10.0/LogAnalyzer.dll
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/bin/Debug/net10.0/LogAnalyzer.pdb
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.AssemblyInfoInputs.cache
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.AssemblyInfo.cs
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.csproj.CoreCompileInputs.cache
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.dll
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/refint/LogAnalyzer.dll
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.pdb
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/LogAnalyzer.genruntimeconfig.cache
+/Users/dominikpieprzyk/Documents/CSS_Projects/LogAnalyzer/obj/Debug/net10.0/ref/LogAnalyzer.dll
